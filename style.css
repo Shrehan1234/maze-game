@@ -130,3 +130,6 @@ input:focus, select:focus {
 	    width: 120px;
 	}
 }
+@media (max-width: 600px) {
+  /* CSS rules for mobile devices */
+}
