@@ -502,7 +502,7 @@ function rand(max) {
   var maze, draw, player;
   var cellSize;
   var difficulty;
-  // sprite.src = 'media/sprite.png';
+  
   
   window.onload = function() {
     let viewWidth = $("#view").width();
